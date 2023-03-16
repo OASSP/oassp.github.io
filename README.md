@@ -1,6 +1,4 @@
-# oassp.github.io
-Github HomePage Static Site of the Non Profit Entity OASSP
- Hi there 👋.
+# Hi there 👋.
  <a href="https://github.com/OASSP/readme.md"><img src="https://img.shields.io/github/stars/OASSP/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/OASSP/OASSP.github.io/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/followers/josephkb87.svg?style=social&amp;label=Follow" alt="GitHub followers"></a>.<a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
 
  🌱![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/josephkb87)</a> 🌱 <a![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/josephkb87)</a>🌱
