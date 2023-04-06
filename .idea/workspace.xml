@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c5fd1ed-20e6-4c3d-b435-8ffdcd576bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/comingsoon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/comingsoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/afr1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/comingsoon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Home.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Home.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campus.html" beforeDir="false" afterPath="$PROJECT_DIR$/campus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle-authentication.html" beforeDir="false" afterPath="$PROJECT_DIR$/moodle-authentication.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="n9lw5z65" />
+  </component>
+  <component name="ProjectId" id="28IPPFiv30IdgW8UkiqNNpoTzTz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\X\Desktop\Business &amp; Travel\Business\Assets &amp; Investments &amp; Stock &amp; Sales\Ads &amp; Online Sales &amp; Marketing\Web &amp; Apps\OASSP\HomePage\images" />
+      <recent name="C:\Users\X\Desktop\Business &amp; Travel\Business\Assets &amp; Investments &amp; Stock &amp; Sales\Ads &amp; Online Sales &amp; Marketing\Web &amp; Apps\OASSP\HomePage" />
+      <recent name="C:\Users\X\Desktop\Business &amp; Travel\Business\Assets &amp; Investments &amp; Stock &amp; Sales\Ads &amp; Online Sales &amp; Marketing\Web &amp; Apps\OASSP\HomePage\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\X\Desktop\Business &amp; Travel\Business\Assets &amp; Investments &amp; Stock &amp; Sales\Ads &amp; Online Sales &amp; Marketing\Web &amp; Apps\OASSP\HomePageNew\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.comingsoon.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Home/index.html?_ij_reload" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="comingsoon.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$PROJECT_DIR$/index.html" nameIsGenerated="true" path-to-js-file="comingsoon.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.comingsoon.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5fd1ed-20e6-4c3d-b435-8ffdcd576bfe" name="Changes" comment="" />
+      <created>1650901105510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650901105510</updated>
+      <workItem from="1650901107500" duration="1570000" />
+      <workItem from="1651001188812" duration="3477000" />
+      <workItem from="1651163523905" duration="1067000" />
+      <workItem from="1660061671413" duration="3094000" />
+      <workItem from="1660334254695" duration="797000" />
+      <workItem from="1660335077649" duration="21247000" />
+      <workItem from="1660391043733" duration="1285000" />
+      <workItem from="1660695960025" duration="513000" />
+      <workItem from="1660717466164" duration="24801000" />
+      <workItem from="1661248966631" duration="1151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" log-stack="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

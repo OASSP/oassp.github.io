@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/source/repos/BootstrapProjects/Beta1/.idea/Beta1.iml" filepath="D:/source/repos/BootstrapProjects/Beta1/.idea/Beta1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Home.iml" filepath="$PROJECT_DIR$/.idea/Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/OASSP.iml" filepath="$PROJECT_DIR$/../.idea/OASSP.iml" />
+    </modules>
+  </component>
+</project>
