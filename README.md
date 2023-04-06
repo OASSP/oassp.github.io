@@ -48,3 +48,4 @@ OR
 
 -->
 
+Our Code of Conduct is found here
