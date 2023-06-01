@@ -31,17 +31,14 @@ OR
 - <a href="https://www.campus.oassp.org/partners.html">Become our Partner.</a>
 
 
-🧙 Our <a href="https://oassp.github.io/privacy">Privacy Policy</a>
-
-🧙 Our <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
-
-Our <a href="href=[..](https://oassp.github.io/CodeOfConduct.md">Code of Conduct</a>
+- <a href="https://oassp.github.io/privacy">Privacy Policy</a>.<a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
+. <a href="https://oassp.github.io/CodeOfConduct.md">Code of Conduct</a>.
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
       <b>Version</b> 3.0.5
     </div>
-    <strong>Copyright &copy; 2022 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
+    <strong>Copyright &copy; 2023 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
     reserved.
  
   </footer>
